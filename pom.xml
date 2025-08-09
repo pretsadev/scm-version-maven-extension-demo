@@ -5,13 +5,12 @@
     <modelVersion>4.1.0</modelVersion>
 
     <groupId>dev.pretsa</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>scm-version-maven-extension-demo</artifactId>
     <version>${scm.version}</version>
-<!--    <version>${revision}</version>-->
 
     <properties>
-        <maven.compiler.source>21</maven.compiler.source>
-        <maven.compiler.target>21</maven.compiler.target>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
